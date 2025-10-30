@@ -1,0 +1,13 @@
+# ninja log v6
+1	25	1761659084864675016	include/Dialect/DeepPipe/IR/DeepPipeDialect.cpp.inc	f3a7615d932ff693
+1	25	1761659084864675016	/home/xiebaokang/projects/DeepPipe/build/include/Dialect/DeepPipe/IR/DeepPipeDialect.cpp.inc	f3a7615d932ff693
+1	25	1761659084864675016	include/Dialect/DeepPipe/IR/DeepPipeDialect.h.inc	97618ef0afa75c47
+1	25	1761659084864675016	/home/xiebaokang/projects/DeepPipe/build/include/Dialect/DeepPipe/IR/DeepPipeDialect.h.inc	97618ef0afa75c47
+2	29	1761659084874675020	include/Dialect/DeepPipe/IR/DeepPipeOps.cpp.inc	4d896601f21a981
+2	29	1761659084874675020	/home/xiebaokang/projects/DeepPipe/build/include/Dialect/DeepPipe/IR/DeepPipeOps.cpp.inc	4d896601f21a981
+2	30	1761659084874675020	include/Dialect/DeepPipe/IR/DeepPipeOps.h.inc	1dbe19bc99f79847
+2	30	1761659084874675020	/home/xiebaokang/projects/DeepPipe/build/include/Dialect/DeepPipe/IR/DeepPipeOps.h.inc	1dbe19bc99f79847
+30	2777	1761659084874675020	CMakeFiles/deepPipe_ffi.dir/ffi/ffi.cpp.o	841be5e4364d28ef
+30	5549	1761659084874675020	lib/Dialect/DeepPipe/IR/CMakeFiles/DeepPipeIR.dir/DeepPipOps.cpp.o	67c59771f9bed9c6
+30	12131	1761659084874675020	CMakeFiles/deepPipe_ffi.dir/ffi/ir.cpp.o	52238fd154448f19
+12131	13736	1761659096974683926	deepPipe_ffi.cpython-310-x86_64-linux-gnu.so	fb0fe4c4d4fb3f24

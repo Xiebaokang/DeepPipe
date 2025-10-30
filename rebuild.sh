@@ -5,7 +5,7 @@ cmake  .. -GNinja \
   -DCMAKE_BUILD_TYPE=Debug  \
   -DCMAKE_LINKER=lld  \
   -DLLVM_ENABLE_ASSERTIONS=ON  \
-  -DMLIR_DIR=/data1/xiebaokang/llvm-project/build/lib/cmake/mlir
+  -DMLIR_DIR=/home/xiebaokang/software/installs/lib/cmake/mlir
 
 ninja
 
